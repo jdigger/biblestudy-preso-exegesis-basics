@@ -1,0 +1,381 @@
+[%notitle]
+= How to Read the Bible
+:imagesdir: images
+:icons: font
+:revealjs_width: "1200"
+:revealjs_height: "768"
+:revealjs_minScale: 0.2
+:revealjs_maxScale: 2.0
+:customcss: ./preso.css
+:revealjs_theme: simple
+:revealjs_history: true
+:revealjs_transition: none
+// :revealjs_controls: false
+
+++++
+<br/><br/><div class="content" style="display: flex; text-align: center;">
+<p style="font-size: 0.5em; width: 100%"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">How to Read the Bible</span> by
+<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under
+a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />
+Presentation source at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/jdigger/biblestudy-preso-exegesis-basics" rel="dct:source">https://github.com/jdigger/biblestudy-preso-exegesis-basics</a></p></div>
+++++
+
+
+== Agenda
+
+* What Is the Bible?
+* The Bible's Scope
+* The Church and The Word
+* Bible Sections
+* How to Read the Bible
+
+
+== What Is the Bible?
+
+image::BibleReading_1400.jpeg[]
+
+== "`Bible`"
+
+"`The Book`" or "`The Books`" (useful ambiguity in English on plurality)
+
+== "`Cannon`"
+
+"`rule`" (as in ruler), "`straight line`", standard
+
+== Two Fancy Words for What We're Doing
+
+* Exegesis - how to understand what the Bible says
+* Hermeneutics - the methods used for Bible study
+
+== The Source
+
+The Cannon is not established by the Church, but the Church has "`recognized`" the Word of God
+
+[.smaller]
+NOTE: This may seem like a silly distinction, but the order/hierarchy matters. For example, can the Church decide what is and isn't a book of the Bible, or merely submit to the Word's inherent authority?
+
+== The Baseline
+
+The seed was the Torah/Pentateuch (the Books of Moses; the first five books)
+
+== Scope of the Old Testament
+
+The scope of the Old Testament was set not only by the recognition of the Old Testament Church, but by Christ Himself on several occasions
+
+[.smaller]
+NOTE: the books were numbered and arranged a little differently for the Hebrews than we do today, but it was identical in content
+
+== "`Other Writings`"
+
+There were lots of other writings -- including extremely good and Godly books
+
+[.smaller]
+NOTE: Think, for example, of Augustine, Luther, and Spurgeon. They aren't Scripture (and the authors would be appalled the question would be raised) but are extremely useful
+
+The Apocrypha ("`hidden ones`") fall into that category, and were a part of most Bibles until the end of the 19th century (and many are still part of Roman Catholic Bibles)
+
+[%notitle]
+== NT Established
+The years (including increased access to vastly more information than they had) have only further cemented the veracity of the books of the Cannon
+
+
+== A New Book?
+
+image::Mohammed_receiving_revelation_from_the_angel_Gabriel.jpg[role="left",height="200px"]
+
+According to Muhammad, the verses of the Quran ("`Recitation`") were revealed to him through the archangel Gabriel on many occasions between 610 AD until his death in 632
+
+Muslims believe that parts of the previously revealed scriptures, the Torah and the Gospels, had become distorted
+
+The Quran is viewed by Muslims as the final and literal revealed word of God
+
+[.smaller]
+NOTE: Although Muslims believe the Quran is the last verbatim word of God towards mankind, communication with God is an ongoing process where "`friends of God`" could communicate with God to know God's will and interpret the Quran.
+
+== Recovered Writings?
+
+image::The_Hill_Cumorah_by_C.C.A.Christensen.jpg[role="right",height="200px"]
+
+Joseph Smith said that he was led to ancient golden plates buried in Manchester, New York, revealing prophetic writings given to the American continent between 600 BC and 421 AD
+
+He translated them and published them in 1830
+
+image::The_Book_of_Mormon.jpg[height="300px"]
+
+
+
+== The Church and The Word
+
+== Knowing God
+
+Just as Christ acts as the principal interpreter of God for the Church, so the Church acts as the principal interpreter of Christ for the Christian
+
+[.smaller]
+NOTE: Christ sent the Holy Spirit to do that work, but that's so intangible that it becomes a very practical problem of knowing who's led by the Spirit and who's led by a demon. So the Church would be the teacher of how to understand the Spirit's guidance.
+
+== Infallibility of the Catholic Church
+
+image::Lusenberg-Virgin.jpg[role="right",height="500px"]
+This gave rise over the centuries to the doctrine of the "`infallibility`" of the Catholic Church, further cementing the idea that the individual could *only* understand the Bible by way of the Church
+
+== Church Doctrines
+
+There is a tremendous amount of the Gospel that is not word-for-word explicit in the Bible, but still expressed by the Word
+
+This "`distillation`" of what the Word teaches is what's known as Church Doctrine
+
+[.smaller]
+NOTE: A prime example would be the Trinity, which would be formally declared as we understand it in the https://www.crcna.org/welcome/beliefs/creeds/nicene-creed[Nicene Creed]
+
+image::Shield-Trinity-Scutum-Fidei-variations.png[height="200px"]
+
+== Nicene Creed
+
+[.smaller]
+We believe in one God,
+      the Father almighty,
+      maker of heaven and earth,
+      of all things visible and invisible.
+
+[.smaller]
+And in one Lord Jesus Christ,
+      the only Son of God,
+      begotten from the Father before all ages,
+           God from God,
+           Light from Light,
+           true God from true God,
+      begotten, not made;
+      of the same essence as the Father.
+      Through him all things were made.
+      For us and for our salvation
+           he came down from heaven;
+           he became incarnate by the Holy Spirit and the virgin Mary,
+           and was made human.
+           He was crucified for us under Pontius Pilate;
+           he suffered and was buried.
+           The third day he rose again, according to the Scriptures.
+           He ascended to heaven
+           and is seated at the right hand of the Father.
+           He will come again with glory
+           to judge the living and the dead.
+           His kingdom will never end.
+
+[.smaller]
+And we believe in the Holy Spirit,
+      the Lord, the giver of life.
+      He proceeds from the Father and the Son,
+      and with the Father and the Son is worshiped and glorified.
+      He spoke through the prophets.
+      We believe in one holy catholic and apostolic church.
+      We affirm one baptism for the forgiveness of sins.
+      We look forward to the resurrection of the dead,
+      and to life in the world to come. Amen.
+
+== Doctrinal Differences
+
+There have always been disagreements on God's Word. One of the earliest and most pervasive (and still enormously influential) was Gnosticism. (Those with "`secret knowledge`")
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Colossians+2%3A8&version=NKJV[Colossians 2:8] "`Beware lest anyone cheat you through philosophy and empty deceit, according to the tradition of men, according to the basic principles of the world, and not according to Christ.`"
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Timothy+6%3A20-21&version=NKJV[1 Timothy 6:20-21] "`O Timothy! Guard what was committed to your trust, avoiding the profane and idle babblings and contradictions of what is falsely called knowledge -- by professing it some have strayed concerning the faith.`"
+
+== Constantly On Guard
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Corinthians+11%3A13-15&version=NKJV[2 Cor 11:13-15] "`For such are false apostles, deceitful workers, transforming themselves into apostles of Christ. And no wonder! For Satan himself transforms himself into an angel of light. Therefore it is no great thing if his ministers also transform themselves into ministers of righteousness, whose end will be according to their works.`"
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+John+1%3A7-9&version=NKJV[2 John 1:7-9] "`For many deceivers have gone out into the world who do not confess Jesus Christ as coming in the flesh. This is a deceiver and an antichrist... He who abides in the doctrine of Christ has both the Father and the Son.`"
+
+
+== Knowing God Through Love
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1%20John%204&version=NKJV[1 John 4] "`Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world. By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world... In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins. Beloved, if God so loved us, we also ought to love one another... If someone says, '`I love God,`' and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?`"
+
+== Church Councils
+
+This is why the Church has always had Councils and the like to hold each other accountable to the Word, as https://www.biblegateway.com/passage/?search=Galatians%202&version=NKJV[Paul did with Peter (Galatians 2)].
+
+image::paul-rebukes-peter.jpg[height="300px"]
+
+== Trent
+
+image::split-the-church.jpg[role="right",height="400px"]
+
+The most famous "`recent`" Council for our modern world was the Council of Trent (1543), which explicitly removed any chance of reconciliation between the Catholic and Reformation churches.
+
+It explicitly condemned the doctrines rediscovered by Luther, Calvin, etc that had gotten twisted in the Church over the centuries.
+
+
+
+== Bible Sections
+
+
+
+== Torah / Pentatuch
+
+The Torah (Hebrew: תּוֹרָה, "`Instruction`", "`Teaching`", or "`Law`") is the compilation of the first five books of the Hebrew Bible. The Greek term is _Pentateuch_, or the Five Books of Moses.
+
+[.twocol]
+* Genesis
+* Exodus
+* Leviticus
+* Numbers
+* Deuteronomy
+
+== The Books of the History of Isreal
+
+[.twocol]
+* Joshua
+* Judges
+* Ruth
+* 1&2 Samuel
+* 1&2 Kings
+* 1&2 Chronicles
+* Ezra
+* Nehemiah
+* Esther
+
+== Wisdom Books
+
+[.twocol]
+* Job
+* Psalms
+* Proverbs
+* Ecclesiastes
+* Song of Songs
+
+== Prophets
+
+[.twocol]
+* Jeremiah
+* Lamentations
+* Hosea
+* Joel
+* Amos
+* Obadiah
+* Jonah
+* Micah
+* Nahum
+* Habakkuk
+* Zephaniah
+* Haggai
+* Zechariah
+* Malachi
+
+
+== Prophecy
+
+[.twocol]
+* Isaiah
+* Ezekiel
+* Daniel
+* Revelation
+
+
+== The Gospels & Apostolic History
+
+[.twocol]
+* Matthew
+* Mark
+* Luke
+* John
+* Acts
+
+
+== Epistles
+
+[.twocol]
+* Romans
+* 1&2 Corinthians
+* Galatians
+* Ephesians
+* Philippians
+* Colossians
+* 1&2 Thessalonians
+* 1&2 Timothy
+* Titus
+* Philemon
+* Hebrews
+* James
+* 1&2 Peter
+* 1-3 John
+* Jude
+
+
+== How to Read the Bible
+
+_Hermeneutics_
+
+image::girl-reading.jpg[height="500px"]
+
+== Pray
+
+Our minds and hearts are perverted with sin. Without the guidance of the Holy Spirit, our souls are bound to misread, misrepresent, and not believe the testimony God gives us.
+
+He has given us His Word to keep us from following after every wild spirit.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=John+17%3A17&version=NKJV[John 17:17] [Jesus praying for His disciples] "`Sanctify them by Your truth. Your word is truth.`"
+
+
+== Scripture Interprets Scripture
+
+1. if something is unclear, search for another part of Scripture that helps clarify it
+2. if there are multiple ways to understand something, go with the one that is consistent with the rest of Scripture
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Acts+17%3A10-11&version=NKJV[Acts 17:10-11] "`Then the brethren immediately sent Paul and Silas away by night to Berea. When they arrived, they went into the synagogue of the Jews. These were more fair-minded than those in Thessalonica, in that they received the word with all readiness, and searched the Scriptures daily to find out whether these things were so.`"
+
+== Read It Literally
+
+The genre dramatically determines how you understand what is being said.
+
+Poems are poems. History is history.  Prophecy is prophecy. etc.
+
+The language and forms of expression vary dramatically, and drive how it is to be understood
+
+[.smaller]
+This also applies to the use of grammar, which is another reason the source documents/language is so important. Is https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=NKJV[Acts 1:8] a prophesy or command? The English is unclear, but the Greek is not. (It's a command.)
+
+
+== Read It In Its Context, With Empathy
+
+If something was said particular person/people, first understand how they would understand what was said.
+
+Be very careful not to impose your desires/culture/etc. upon what it says.
+
+Continuing with reading literally: Even in normal, everyday speech, we're familiar with the use of idioms, hyperbole, etc. But it makes it challenging if you're not part of that culture
+
+
+== Focus on the Plain Meaning
+
+While allegorical (symbolic) readings and the like can be useful, they are more often a prime source of confusion about what the Bible says.
+
+What's the simplest, most explicit way to read the passage that conforms with the rest of Scripture? Go with that.
+
+
+== Spirit vs Letter
+
+Related to reading "`literally,`" be sure to understand what's being *SAID* behind the words.
+
+For a prime example, see how Jesus interprets the Law during the Sermon on the Mount. He showed how they were so focused on surface meanings that they failed to understand *WHY* the laws were there.
+
+
+== Conclusion
+
+[%notitle]
+== The Conclusion
+
+image::psalm119_light.jpg[role="right", height="700px"]
+
+God's Word is His primary way of speaking to our hearts and minds.
+
+The Holy Spirit serves as our guide in using this gift to draw us closer and closer to Him.
+
+
